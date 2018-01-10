@@ -20,3 +20,11 @@
 - [While Challenge](https://github.com/DurandalOne/PythonLearning/blob/master/whilechallenge.py)
 - [List Challenge](https://github.com/DurandalOne/PythonLearning/blob/master/listchallenge.py)
 
+### Day 3: January 10, 2018
+
+**Today's Progress**: Not much actual coding was done, rather lots of studying algoritms and data structures.
+
+**Thoughts:** My original aim today was to pivot and spend some time brusing up on my Java. Instead I spent most of my day off concentrating on the nitty gritty of sorting. I read up on native sorting (such as bubble, selection and insertion); the complexity of straight sorting algorithms; reduction and recursion; smart sorting and finally how it all fits into the Big-O. It was a lot to take in, but I think I manged to pick most of it up.
+
+**Link to work:** 
+- [Problem Solving with Algorithms and Data Structures Using Python](http://interactivepython.org/courselib/static/pythonds/index.html)

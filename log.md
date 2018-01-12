@@ -37,3 +37,12 @@
 
 **Link to work:** 
 - [Open University](http://www.open.ac.uk)
+
+### Day 5: January 12, 2018
+
+**Today's Progress**: Chipping away at more OU work
+
+**Thoughts:** Not had the largest amount of time to work on loads of code. The time I did have though was spent on more of my Java open university work. Worked on the rocket problem from yesterday and another problem in which I have to link various frog classes to one another.
+
+**Link to work:** 
+- [Open University](http://www.open.ac.uk)

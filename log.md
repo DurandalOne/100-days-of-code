@@ -22,9 +22,18 @@
 
 ### Day 3: January 10, 2018
 
-**Today's Progress**: Not much actual coding was done, rather lots of studying algoritms and data structures.
+**Today's Progress**: Not much actual coding was done, rather lots of studying algoritms and data structures
 
 **Thoughts:** My original aim today was to pivot and spend some time brusing up on my Java. Instead I spent most of my day off concentrating on the nitty gritty of sorting. I read up on native sorting (such as bubble, selection and insertion); the complexity of straight sorting algorithms; reduction and recursion; smart sorting and finally how it all fits into the Big-O. It was a lot to take in, but I think I manged to pick most of it up.
 
 **Link to work:** 
 - [Problem Solving with Algorithms and Data Structures Using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
+
+### Day 3: January 10, 2018
+
+**Today's Progress**: Sidestepped from Python over to Java for some Open University work
+
+**Thoughts:** Gave my Python work a bit of a break and started work on my next piece of work for my Java Open University work. One task is to create a class in Java called Rocket. The class has to dispay a rocket made of a triangle, square and circle on a GUI and "set the rocket off" adjusting the x and y positions as the rocket moves up. 
+
+**Link to work:** 
+- [Open University](http://www.open.ac.uk)

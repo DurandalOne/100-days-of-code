@@ -29,7 +29,7 @@
 **Link to work:** 
 - [Problem Solving with Algorithms and Data Structures Using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
 
-### Day 3: January 10, 2018
+### Day 4: January 11, 2018
 
 **Today's Progress**: Sidestepped from Python over to Java for some Open University work
 
